@@ -2,7 +2,8 @@
 
 The api calculate the circumference of the sun.
 
-# Install npm https://docs.npmjs.com/
+# Install npm
+https://docs.npmjs.com/
 
 # Usage
 1. Install the packages: 
