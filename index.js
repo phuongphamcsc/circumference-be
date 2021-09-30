@@ -18,7 +18,7 @@ const options = {
     },
     servers: [
       {
-        url: "https://circumference-sun.herokuapp.com/"
+        url: "https://circumference-sun.herokuapp.com"
       }
     ]    
   },
