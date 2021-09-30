@@ -8,11 +8,11 @@ const {circumference} = require("./pi");
  * @swagger 
  * /circum:
  *   get:
- *    summary: Return circumference.
+ *    summary: Return circumference of the sun (million km).
  *    tags: [Circumference]
  *    responses: 
  *      200:
- *       description: Return circumference the most accurate value that the server has calculated PI.
+ *       description: Return circumference of the sun with the most accurate value that the server has calculated PI with the digits of decimal places of precision.
  *       content:
  *          application/json:
  *              schema:

@@ -81,7 +81,7 @@ function circumference() {
  *     Circum:
  *       type: object
  *       example:
- *          Circum: 4.379
+ *          Circum: 4.37529608852945
  */
 //#endregion
 
